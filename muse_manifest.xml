@@ -1,6 +1,6 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="webcyborg.com" resolutions="1x" timestamp="1565284710634">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="webcyborg.com" resolutions="1x" timestamp="1565287623497">
   <folder name="css">
-    <file name="site_global.css" crc="285253000"/>
+    <file name="site_global.css" crc="411944907"/>
     <file name="master_a-master.css" crc="488800610" ref="skills:index:work:about:libs:nanote:bano:plexr:repozist"/>
     <file name="nomq_preview_master_a-master.css" crc="39751524" ref="skills:index:work:about:libs:nanote:bano:plexr:repozist"/>
     <file name="skills.css" crc="310938888" ref="skills"/>
@@ -66,7 +66,7 @@
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
     <file name="form_check.php" crc="62300408" ref="about"/>
     <file name="form_process.php" crc="91775217" ref="about"/>
-    <file name="form-u7187.php" crc="3965427513" ref="about"/>
+    <file name="form-u7187.php" crc="4170551506" ref="about"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index:work:about:skills:libs:bano:plexr:repozist:nanote"/>
@@ -241,14 +241,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="favicon.ico" crc="371585175" ref="index:about"/>
   </folder>
-  <file name="index.html" crc="355268978" seo="true" mt="1565284338490" redirect="true"/>
-  <file name="work.html" crc="3858438" seo="true" mt="1565279670346" redirect="true"/>
-  <file name="about.html" crc="3858855400" seo="true" mt="1565284537197" redirect="true"/>
-  <file name="skills.html" crc="409440766" seo="true" mt="1565284698869" redirect="true"/>
-  <file name="libs.html" crc="3838912078" seo="true" mt="1565279649825" redirect="true"/>
-  <file name="bano.html" crc="4149595833" seo="true" mt="1565258677637" redirect="true"/>
-  <file name="plexr.html" crc="139702845" seo="true" mt="1565258677638" redirect="true"/>
-  <file name="repozist.html" crc="3852493775" seo="true" mt="1565258677640" redirect="true"/>
-  <file name="nanote.html" crc="3850143907" seo="true" mt="1565258677642" redirect="true"/>
+  <file name="index.html" crc="412634935" seo="true" mt="1565286727251" redirect="true"/>
+  <file name="work.html" crc="4219890821" seo="true" mt="1565286727251" redirect="true"/>
+  <file name="about.html" crc="4174886560" seo="true" mt="1565287592280" redirect="true"/>
+  <file name="skills.html" crc="275255926" seo="true" mt="1565286727251" redirect="true"/>
+  <file name="libs.html" crc="4265678868" seo="true" mt="1565286727251" redirect="true"/>
+  <file name="bano.html" crc="314483619" seo="true" mt="1565286727251" redirect="true"/>
+  <file name="plexr.html" crc="4154081804" seo="true" mt="1565286727251" redirect="true"/>
+  <file name="repozist.html" crc="3951137729" seo="true" mt="1565286727251" redirect="true"/>
+  <file name="nanote.html" crc="451427542" seo="true" mt="1565286727251" redirect="true"/>
 </manifest>
