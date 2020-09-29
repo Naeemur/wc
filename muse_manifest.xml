@@ -1,25 +1,25 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="webcyborg.com" resolutions="1x" timestamp="1569856679635">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="webcyborg.com" resolutions="1x" timestamp="1601406934766">
   <folder name="css">
     <file name="site_global.css" crc="411944907"/>
-    <file name="master_a-master.css" crc="4137393576" ref="skills:index:work:about:libs:nanote:bano:plexr:repozist"/>
+    <file name="master_a-master.css" crc="332658767" ref="skills:index:work:about:libs:nanote:bano:plexr:repozist"/>
     <file name="nomq_preview_master_a-master.css" crc="39751524" ref="skills:index:work:about:libs:nanote:bano:plexr:repozist"/>
-    <file name="skills.css" crc="4029533616" ref="skills"/>
+    <file name="skills.css" crc="234991361" ref="skills"/>
     <file name="nomq_skills.css" crc="427662477" ref="skills"/>
-    <file name="index.css" crc="3922001762" ref="index"/>
+    <file name="index.css" crc="54051977" ref="index"/>
     <file name="nomq_index.css" crc="4120043863" ref="index"/>
-    <file name="work.css" crc="497250994" ref="work"/>
+    <file name="work.css" crc="18824699" ref="work"/>
     <file name="nomq_work.css" crc="3812002392" ref="work"/>
-    <file name="about.css" crc="4113365214" ref="about"/>
+    <file name="about.css" crc="4017115048" ref="about"/>
     <file name="nomq_about.css" crc="314955101" ref="about"/>
-    <file name="libs.css" crc="4074635600" ref="libs"/>
+    <file name="libs.css" crc="522265835" ref="libs"/>
     <file name="nomq_libs.css" crc="3980809835" ref="libs"/>
-    <file name="nanote.css" crc="3812094913" ref="nanote"/>
+    <file name="nanote.css" crc="348845434" ref="nanote"/>
     <file name="nomq_nanote.css" crc="3857566837" ref="nanote"/>
-    <file name="bano.css" crc="487998751" ref="bano"/>
+    <file name="bano.css" crc="3941286820" ref="bano"/>
     <file name="nomq_bano.css" crc="3857566837" ref="bano"/>
-    <file name="plexr.css" crc="288293464" ref="plexr"/>
+    <file name="plexr.css" crc="3872523491" ref="plexr"/>
     <file name="nomq_plexr.css" crc="3857566837" ref="plexr"/>
-    <file name="repozist.css" crc="4152559661" ref="repozist"/>
+    <file name="repozist.css" crc="8261270" ref="repozist"/>
     <file name="nomq_repozist.css" crc="3857566837" ref="repozist"/>
   </folder>
   <folder name="fonts">
@@ -96,120 +96,120 @@
       <caption webpage="skills" alt=""/>
     </file>
     <file name="facebook_circle_color-512.png" crc="3985838470" seo="true" ref="index:work:about:skills:libs:bano:plexr:repozist:nanote">
-      <caption webpage="repozist" alt=""/>
-      <caption webpage="repozist" alt=""/>
-      <caption webpage="repozist" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="nanote" alt=""/>
-      <caption webpage="nanote" alt=""/>
-      <caption webpage="nanote" alt=""/>
       <caption webpage="plexr" alt=""/>
       <caption webpage="plexr" alt=""/>
       <caption webpage="plexr" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="libs" alt=""/>
-      <caption webpage="libs" alt=""/>
-      <caption webpage="libs" alt=""/>
-      <caption webpage="bano" alt=""/>
-      <caption webpage="bano" alt=""/>
-      <caption webpage="bano" alt=""/>
+      <caption webpage="repozist" alt=""/>
+      <caption webpage="repozist" alt=""/>
+      <caption webpage="repozist" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
+      <caption webpage="nanote" alt=""/>
+      <caption webpage="nanote" alt=""/>
+      <caption webpage="nanote" alt=""/>
+      <caption webpage="bano" alt=""/>
+      <caption webpage="bano" alt=""/>
+      <caption webpage="bano" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="libs" alt=""/>
+      <caption webpage="libs" alt=""/>
+      <caption webpage="libs" alt=""/>
     </file>
     <file name="twitter_circle_color-512.png" crc="176732263" seo="true" ref="index:work:about:skills:libs:bano:plexr:repozist:nanote">
-      <caption webpage="repozist" alt=""/>
-      <caption webpage="repozist" alt=""/>
-      <caption webpage="repozist" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="nanote" alt=""/>
-      <caption webpage="nanote" alt=""/>
-      <caption webpage="nanote" alt=""/>
       <caption webpage="plexr" alt=""/>
       <caption webpage="plexr" alt=""/>
       <caption webpage="plexr" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="libs" alt=""/>
-      <caption webpage="libs" alt=""/>
-      <caption webpage="libs" alt=""/>
-      <caption webpage="bano" alt=""/>
-      <caption webpage="bano" alt=""/>
-      <caption webpage="bano" alt=""/>
+      <caption webpage="repozist" alt=""/>
+      <caption webpage="repozist" alt=""/>
+      <caption webpage="repozist" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
+      <caption webpage="nanote" alt=""/>
+      <caption webpage="nanote" alt=""/>
+      <caption webpage="nanote" alt=""/>
+      <caption webpage="bano" alt=""/>
+      <caption webpage="bano" alt=""/>
+      <caption webpage="bano" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="libs" alt=""/>
+      <caption webpage="libs" alt=""/>
+      <caption webpage="libs" alt=""/>
     </file>
     <file name="github_circle_black-512.png" crc="3889021675" seo="true" ref="index:work:about:skills:libs:bano:plexr:repozist:nanote">
-      <caption webpage="repozist" alt=""/>
-      <caption webpage="repozist" alt=""/>
-      <caption webpage="repozist" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="nanote" alt=""/>
-      <caption webpage="nanote" alt=""/>
-      <caption webpage="nanote" alt=""/>
       <caption webpage="plexr" alt=""/>
       <caption webpage="plexr" alt=""/>
       <caption webpage="plexr" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="libs" alt=""/>
-      <caption webpage="libs" alt=""/>
-      <caption webpage="libs" alt=""/>
-      <caption webpage="bano" alt=""/>
-      <caption webpage="bano" alt=""/>
-      <caption webpage="bano" alt=""/>
+      <caption webpage="repozist" alt=""/>
+      <caption webpage="repozist" alt=""/>
+      <caption webpage="repozist" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
+      <caption webpage="nanote" alt=""/>
+      <caption webpage="nanote" alt=""/>
+      <caption webpage="nanote" alt=""/>
+      <caption webpage="bano" alt=""/>
+      <caption webpage="bano" alt=""/>
+      <caption webpage="bano" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="libs" alt=""/>
+      <caption webpage="libs" alt=""/>
+      <caption webpage="libs" alt=""/>
     </file>
     <file name="linkedin_circle_color-512.png" crc="296564278" seo="true" ref="index:work:about:skills:libs:bano:plexr:repozist:nanote">
-      <caption webpage="repozist" alt=""/>
-      <caption webpage="repozist" alt=""/>
-      <caption webpage="repozist" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="nanote" alt=""/>
-      <caption webpage="nanote" alt=""/>
-      <caption webpage="nanote" alt=""/>
       <caption webpage="plexr" alt=""/>
       <caption webpage="plexr" alt=""/>
       <caption webpage="plexr" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="libs" alt=""/>
-      <caption webpage="libs" alt=""/>
-      <caption webpage="libs" alt=""/>
-      <caption webpage="bano" alt=""/>
-      <caption webpage="bano" alt=""/>
-      <caption webpage="bano" alt=""/>
+      <caption webpage="repozist" alt=""/>
+      <caption webpage="repozist" alt=""/>
+      <caption webpage="repozist" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
+      <caption webpage="nanote" alt=""/>
+      <caption webpage="nanote" alt=""/>
+      <caption webpage="nanote" alt=""/>
+      <caption webpage="bano" alt=""/>
+      <caption webpage="bano" alt=""/>
+      <caption webpage="bano" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="libs" alt=""/>
+      <caption webpage="libs" alt=""/>
+      <caption webpage="libs" alt=""/>
     </file>
     <file name="retina pro.png" crc="4288972428" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -241,15 +241,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="favicon.ico" crc="371585175" ref="index:about:skills"/>
+    <file name="favicon.ico" crc="371585175" ref="index:libs:work"/>
   </folder>
-  <file name="index.html" crc="412634935" seo="true" mt="1565286727251" redirect="true"/>
-  <file name="work.html" crc="4219890821" seo="true" mt="1565286727251" redirect="true"/>
-  <file name="about.html" crc="4174886560" seo="true" mt="1565287592280" redirect="true"/>
-  <file name="skills.html" crc="4258881226" seo="true" mt="1569856646046" redirect="true"/>
-  <file name="libs.html" crc="4265678868" seo="true" mt="1565286727251" redirect="true"/>
-  <file name="bano.html" crc="314483619" seo="true" mt="1565286727251" redirect="true"/>
-  <file name="plexr.html" crc="4154081804" seo="true" mt="1565286727251" redirect="true"/>
-  <file name="repozist.html" crc="3951137729" seo="true" mt="1565286727251" redirect="true"/>
-  <file name="nanote.html" crc="451427542" seo="true" mt="1565286727251" redirect="true"/>
+  <file name="index.html" crc="3771534758" seo="true" mt="1601374611237" redirect="true"/>
+  <file name="work.html" crc="4128940236" seo="true" mt="1601405069750" redirect="true"/>
+  <file name="about.html" crc="3957225784" seo="true" mt="1601405250945" redirect="true"/>
+  <file name="skills.html" crc="4147049158" seo="true" mt="1601394925265" redirect="true"/>
+  <file name="libs.html" crc="3868635966" seo="true" mt="1601379426257" redirect="true"/>
+  <file name="bano.html" crc="4242386802" seo="true" mt="1601374611237" redirect="true"/>
+  <file name="plexr.html" crc="4064705881" seo="true" mt="1601374611237" redirect="true"/>
+  <file name="repozist.html" crc="339974833" seo="true" mt="1601374611237" redirect="true"/>
+  <file name="nanote.html" crc="4170630871" seo="true" mt="1601374611237" redirect="true"/>
 </manifest>
